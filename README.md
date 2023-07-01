@@ -10,7 +10,7 @@
 Witnessing the escalating environmental crises, such as climate change🌧️, deforestation🌲, pollution🏭, and habitat destruction, served as a strong motivation to take action from my end. Recognizing the severity of these issues and the potential consequences for future generations inspired a deep sense of responsibility and drove me to make a positive impact by building this project.
 
 <h1>⭐What it does</h1>
-<h3>Eco Legacy🌳</h3>It is a platform intended to provide resources to save environment**. It provides resources like blogs and famous environmentalists who created a huge impact and users can also explore books📚 related to sustainability and environment🌲. The project uses Google's Books API in order to return to the user a list of books related to environment and other related aspects. It also collects payments and promotes plantation🌲.
+<h3>Eco Legacy🌳</h3>It is a platform intended to provide resources to save environment. It provides resources like blogs and famous environmentalists who created a huge impact and users can also explore books📚 related to sustainability and environment🌲. The project uses Google's Books API in order to return to the user a list of books related to environment and other related aspects. It also collects payments and promotes plantation🌲.
 
 <h1>⚒️ How I built it</h1>
 I used  React JS , CSS for styling, Axios to make API requests , Google API's to fetch the books list and Github for developing the application 📟.
