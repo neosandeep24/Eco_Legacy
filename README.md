@@ -9,5 +9,7 @@ Witnessing the escalating environmental crises, such as climate change🌧️, d
 I used _React JS_,_CSS_ for styling, _Axios_ to make API requests , _Google API's_ to fetch the books list and Github for developing the application 📟.
 
 <h1>🔮What's next for Eco Legacy🌳</h1>
-1. Expand📈 the project by providing the feature to subscribe to our news letter which includes environmental aspects and other events happening across the world.
+<ul>
+<li>1. Expand📈 the project by providing the feature to subscribe to our news letter which includes environmental aspects and other events happening across the world.</li>
 2. I would also to add a functionality where users can plan, create events 🏘️ and encourage user collaboration.
+</ul>
