@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.backgg {
+  background: url(./images/1.jpg) no-repeat center center fixed;
+  background-size: cover;  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
