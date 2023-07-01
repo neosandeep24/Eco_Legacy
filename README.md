@@ -17,6 +17,35 @@ I used  React JS , CSS for styling, Axios to make API requests , Google API's to
 
 <h1>🔮What's next for Eco Legacy🌳</h1>
 <ul>
-<li>1. Expand📈 the project by providing the feature to subscribe to our news letter which includes environmental aspects and other events happening across the world.</li>
-2. I would also to add a functionality where users can plan, create events 🏘️ and encourage user collaboration.
+<li>Expand📈 the project by providing the feature to subscribe to our news letter which includes environmental aspects and other events happening across the world.</li>
+<li> I would also to add a functionality where users can plan, create events 🏘️ and encourage user collaboration.</li>
 </ul>
+
+<h1>Screenshots</h1>
+<p>Landing Page</p>
+
+![Eco_legacy (1)](https://github.com/neosandeep24/Eco_Legacy/assets/103883917/7a3b2677-9739-4384-b539-e4a1cca3dd8b)
+
+
+<p>Blogs Page</p>
+
+![Eco_legacy (7)](https://github.com/neosandeep24/Eco_Legacy/assets/103883917/599c8db2-01a7-4c5b-b28d-4f7958f873ba)
+
+
+
+<p>Books Page</p>
+
+
+
+![Eco_legacy (4)](https://github.com/neosandeep24/Eco_Legacy/assets/103883917/48389ed1-db96-4bb8-b00b-7ac05fea84cc)
+
+
+<p>Activists Page</p>
+
+![Eco_legacy (6)](https://github.com/neosandeep24/Eco_Legacy/assets/103883917/722891a4-3dec-4593-8558-b8568002760c)
+
+<p>Donation Page</p>
+
+
+![Eco_legacy (8)](https://github.com/neosandeep24/Eco_Legacy/assets/103883917/4e775dbe-30d9-4aed-bc08-1be4b0a71fb6)
+
